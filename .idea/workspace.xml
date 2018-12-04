@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7752a4e9-3a46-4580-ada1-ddb3ffd11b41" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/NumberParity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NumberParity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/NumberParityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NumberParityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ExercisesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ReverseStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/ReverseStrings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ReverseStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ReverseStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ReverseStringsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ReverseStringsTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -54,40 +58,20 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.29601723">
-      <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/test/java/NumberParityTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="472">
-                  <caret line="91" column="18" lean-forward="true" selection-start-line="91" selection-start-column="18" selection-end-line="91" selection-end-column="18" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/NumberParity.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="552">
-                  <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ExercisesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="107" column="4" selection-start-line="107" selection-start-column="4" selection-end-line="107" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -105,10 +89,12 @@
         <option value="$PROJECT_DIR$/src/test/java/LibraryTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/StringReverseTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Library.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ReverseStringsTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ReverseStrings.java" />
         <option value="$PROJECT_DIR$/src/test/java/NumberParityTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/NumberParity.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ReverseStringsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ReverseStrings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Exercises.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ExercisesTest.java" />
       </list>
     </option>
   </component>
@@ -196,7 +182,24 @@
               <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="higher-order-function" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="higher-order-function" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -208,7 +211,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543944790843" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543954864453" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -230,69 +233,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.NumberParityTest">
-    <configuration name="higher-order-functions [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="NumberParityTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="higher-order-function.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NumberParityTest" />
+  <component name="RunManager" selected="JUnit.ExercisesTest">
+    <configuration name="Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises" />
+      <module name="higher-order-function.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberParityTest.checkForNullListThrowsException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReverseStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseStrings" />
+      <module name="higher-order-function.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercisesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="higher-order-function.test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NumberParityTest" />
-      <option name="METHOD_NAME" value="checkForNullListThrowsException" />
+      <option name="MAIN_CLASS_NAME" value="ExercisesTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercisesTest.returnsEmptyStringWhenListIsEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="higher-order-function.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExercisesTest" />
+      <option name="METHOD_NAME" value="returnsEmptyStringWhenListIsEmpty" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberParityTest.returnsOffForAListWithOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ExercisesTest.returnsStringWithDelimiterWhenListHasMoreThanOneElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="higher-order-function.test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NumberParityTest" />
-      <option name="METHOD_NAME" value="returnsOffForAListWithOne" />
+      <option name="MAIN_CLASS_NAME" value="ExercisesTest" />
+      <option name="METHOD_NAME" value="returnsStringWithDelimiterWhenListHasMoreThanOneElement" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseStringsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="higher-order-function.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ReverseStringsTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.NumberParityTest" />
-        <item itemvalue="JUnit.NumberParityTest.returnsOffForAListWithOne" />
-        <item itemvalue="JUnit.NumberParityTest.checkForNullListThrowsException" />
-        <item itemvalue="Gradle.higher-order-functions [test]" />
-        <item itemvalue="JUnit.ReverseStringsTest" />
+        <item itemvalue="JUnit.ExercisesTest" />
+        <item itemvalue="JUnit.ExercisesTest.returnsStringWithDelimiterWhenListHasMoreThanOneElement" />
+        <item itemvalue="Application.Exercises" />
+        <item itemvalue="JUnit.ExercisesTest.returnsEmptyStringWhenListIsEmpty" />
+        <item itemvalue="Application.ReverseStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -306,44 +296,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543932832027</updated>
-      <workItem from="1543932836059" duration="10999000" />
+      <workItem from="1543932836059" duration="18683000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NumberParityTest - 2018.12.04 at 12h 16m 26s.xml">
-      <configuration name="NumberParityTest" configurationId="JUnit" />
+    <history-entry file="ExercisesTest - 2018.12.04 at 14h 34m 21s.xml">
+      <configuration name="ExercisesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumberParityTest - 2018.12.04 at 12h 17m 50s.xml">
-      <configuration name="NumberParityTest" configurationId="JUnit" />
+    <history-entry file="ExercisesTest - 2018.12.04 at 14h 36m 00s.xml">
+      <configuration name="ExercisesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumberParityTest - 2018.12.04 at 12h 18m 30s.xml">
-      <configuration name="NumberParityTest" configurationId="JUnit" />
+    <history-entry file="ExercisesTest_returnsEmptyStringWhenListIsEmpty - 2018.12.04 at 14h 43m 31s.xml">
+      <configuration name="ExercisesTest.returnsEmptyStringWhenListIsEmpty" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumberParityTest - 2018.12.04 at 12h 19m 38s.xml">
-      <configuration name="NumberParityTest" configurationId="JUnit" />
+    <history-entry file="ExercisesTest_returnsEmptyStringWhenListIsEmpty - 2018.12.04 at 14h 43m 42s.xml">
+      <configuration name="ExercisesTest.returnsEmptyStringWhenListIsEmpty" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumberParityTest - 2018.12.04 at 12h 20m 34s.xml">
-      <configuration name="NumberParityTest" configurationId="JUnit" />
+    <history-entry file="ExercisesTest - 2018.12.04 at 14h 43m 53s.xml">
+      <configuration name="ExercisesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumberParityTest_returnsOffForAListWithOne - 2018.12.04 at 12h 22m 34s.xml">
-      <configuration name="NumberParityTest.returnsOffForAListWithOne" configurationId="JUnit" />
+    <history-entry file="ExercisesTest - 2018.12.04 at 14h 46m 40s.xml">
+      <configuration name="ExercisesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumberParityTest - 2018.12.04 at 12h 22m 46s.xml">
-      <configuration name="NumberParityTest" configurationId="JUnit" />
+    <history-entry file="ExercisesTest - 2018.12.04 at 14h 46m 58s.xml">
+      <configuration name="ExercisesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumberParityTest - 2018.12.04 at 12h 23m 56s.xml">
-      <configuration name="NumberParityTest" configurationId="JUnit" />
+    <history-entry file="ExercisesTest - 2018.12.04 at 14h 57m 18s.xml">
+      <configuration name="ExercisesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumberParityTest - 2018.12.04 at 12h 30m 48s.xml">
-      <configuration name="NumberParityTest" configurationId="JUnit" />
+    <history-entry file="ExercisesTest_returnsStringWithDelimiterWhenListHasMoreThanOneElement - 2018.12.04 at 15h 11m 21s.xml">
+      <configuration name="ExercisesTest.returnsStringWithDelimiterWhenListHasMoreThanOneElement" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumberParityTest - 2018.12.04 at 12h 31m 09s.xml">
-      <configuration name="NumberParityTest" configurationId="JUnit" />
+    <history-entry file="ExercisesTest - 2018.12.04 at 15h 11m 27s.xml">
+      <configuration name="ExercisesTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10999000" />
+    <option name="totallyTimeSpent" value="18683000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="977" extended-state="6" />
@@ -364,8 +354,8 @@
       <window_info anchor="bottom" id="Version Control" order="5" weight="0.3293979" />
       <window_info anchor="bottom" id="Build" order="6" weight="0.3293979" />
       <window_info anchor="bottom" id="Message" order="7" />
-      <window_info anchor="bottom" id="Find" order="8" />
-      <window_info anchor="bottom" id="Run" order="9" weight="0.39197168" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.3293979" />
+      <window_info active="true" anchor="bottom" id="Run" order="9" visible="true" weight="0.39197168" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
@@ -397,7 +387,7 @@
       <window_info anchor="bottom" id="Version Control" order="5" weight="0.3293979" />
       <window_info anchor="bottom" id="Build" order="6" weight="0.3293979" />
       <window_info anchor="bottom" id="Message" order="7" />
-      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.3293979" />
       <window_info active="true" anchor="bottom" id="Run" order="9" visible="true" weight="0.39197168" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
@@ -467,16 +457,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ReverseStrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="73" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Optional.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -484,10 +464,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/OptionalInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1464">
+          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/stream/IntStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="991">
+          <caret line="824" column="94" selection-start-line="824" selection-start-column="89" selection-end-line="824" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/StringJoiner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="127" column="52" lean-forward="true" selection-start-line="127" selection-start-column="52" selection-end-line="127" selection-end-column="52" />
+          <folding>
+            <element signature="e#3306#3307#0" expanded="true" />
+            <element signature="e#3345#3346#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="2453" column="39" selection-start-line="2453" selection-start-column="39" selection-end-line="2453" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ReverseStringsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
-          <caret line="91" column="5" lean-forward="true" selection-start-line="80" selection-start-column="4" selection-end-line="91" selection-end-column="5" />
+        <state relative-caret-position="253">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -496,8 +508,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/NumberParityTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="91" column="18" lean-forward="true" selection-start-line="91" selection-start-column="18" selection-end-line="91" selection-end-column="18" />
+        <state relative-caret-position="24">
+          <caret line="21" column="79" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="79" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -506,8 +518,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/NumberParity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        <state relative-caret-position="139">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="11" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ReverseStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="10" column="66" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Exercises.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="8" column="66" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ExercisesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="107" column="4" selection-start-line="107" selection-start-column="4" selection-end-line="107" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
