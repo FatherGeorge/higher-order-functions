@@ -50,4 +50,30 @@ final class ReverseStringsTest {
 
         //Teardown
     }
+
+    @Test
+    void reverseStringReturnsListWithOneDifferentReversedValue() {
+        //Setup
+
+        //Exercise
+        final List<String> actual = ReverseStrings.reverseString(Collections.singletonList("bar"));
+
+        //Assert
+        assertThat(actual, contains("rab"));
+
+        //Teardown
+    }
+
+    @Test
+    void reverseStringsRemoveNullFromList() {
+        //Setup
+
+        //Exercise
+        final List<String> actual = ReverseStrings.reverseString(Collections.singletonList(null));
+
+        //Assert
+        assertThat(actual.isEmpty(), is(true));
+
+        //Teardown
+    }
 }
