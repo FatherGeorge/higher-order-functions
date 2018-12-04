@@ -1,12 +1,13 @@
-import com.google.common.collect.ImmutableList;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.contains;
+import static org.hamcrest.Matchers.is;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
 final class NumberParityTest {
@@ -64,7 +65,7 @@ final class NumberParityTest {
     }
 
     @Test
-    void returnsOffForOne() {
+    void returnsOddForOne() {
         //Setup
         List<Integer> numbers = Collections.singletonList(1);
 
@@ -77,6 +78,19 @@ final class NumberParityTest {
         //teardown
     }
 
+    @Test
+    void returnsTwoValuesForTwoNumbers() {
+        //Setup
+        List<Integer> numbers = Arrays.asList(1,0);
+
+        //Exercise
+        final List<String> actual = NumberParity.evenOrOdd(numbers);
+
+        //Assert
+        assertThat("odd".equals(actual.get(0)), is(true));
+        assertThat("even".equals(actual.get(1)), is(true));
+        //Teardown
+    }
 
 
 
