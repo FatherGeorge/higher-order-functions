@@ -7,7 +7,7 @@ final class ReverseStrings {
 
     static List<String> reverseString(final List<String> stringsToReverse) {
 
-        if(stringsToReverse == null) {
+        if(null == stringsToReverse) {
             return Collections.emptyList();
         }
 

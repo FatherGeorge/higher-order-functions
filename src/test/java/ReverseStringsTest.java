@@ -1,6 +1,7 @@
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
@@ -73,6 +74,19 @@ final class ReverseStringsTest {
 
         //Assert
         assertThat(actual.isEmpty(), is(true));
+
+        //Teardown
+    }
+
+    @Test
+    void reverseStringsReturnsTwoReversedValues() {
+        //Setup
+
+        //Exercise
+        final List<String> actual = ReverseStrings.reverseString(Arrays.asList("Dale", "Paul"));
+
+        //Assert
+        assertThat(actual, contains("elaD","luaP"));
 
         //Teardown
     }
